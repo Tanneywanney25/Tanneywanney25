@@ -32,7 +32,7 @@ CS and Finance student at New York University. I build usable and scalable produ
 - Varsity captain and club president for the #3 nationally ranked team (best school achievment in past 40+ years of our school's competition history)
 - DECA Director of Internal Affairs for 500+ students
 - Web and AI Club Tech Lead for 30+ projects through mentorship
-- 
+
 ## Engineering Interests
 
 - Full-stack product engineering with TypeScript, React, Next.js, Python, Node
