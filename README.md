@@ -56,7 +56,6 @@ CS and Finance student at New York University. I build usable and scalable produ
 - **Software Engineer Intern** at KN Consulting
 - **Research Intern** at Cornell University, focused on AI applications in genomics
 - **Founder, Code4Good**, 501(c)(3) nonprofit that taught coding to 500+ students across five countries
-- 
 
 ## What I Care About
 
